@@ -1,6 +1,6 @@
 <div style="display: inline_block" align="center"><br>
 
-  <h1>Hi!, I'm Postinico 👋<h1/>
+  <h1>Hi!, I'm Postinico, full stack developer 👋<h1/>
   <img align="center" alt="csharp" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="dotNetCore" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="Angular" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
