@@ -24,8 +24,8 @@
   <img align="center" alt="Nginx" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
 </div>
   
-<div>
-  <a align="center" href="https://github.com/Postinico">
+<div align="center">
+  <href="https://github.com/Postinico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Postinico&show_icons=true&theme=dark&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Postinico&layout=compact&langs_count=7&theme=dark"/>
 </div>
