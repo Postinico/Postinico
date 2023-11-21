@@ -43,7 +43,9 @@
  
 </div>
 <div>
-  <h1>SOLID<h1/>
-  <h1>DDD<h1/>
-  <h1>TDD<h1/>
+  <h1>Development pattern <h1/>
+  * SOLID
+  * DDD (Domain Driven Design)
+  * TDD (Test Driven Development)
+  * DevOps (Continuous Integration / Continuous Delivery)
 </div>
