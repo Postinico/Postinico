@@ -6,6 +6,7 @@
   <img align="center" alt="Angular" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="TypeScrip" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Postgresql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="GitLab" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Azure" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg">
   <img align="center" alt="Bootstrap" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
