@@ -25,7 +25,7 @@
 </div>
   
 <div>
-  <a href="https://github.com/Postinico">
+  <a align="center" href="https://github.com/Postinico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Postinico&show_icons=true&theme=dark&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Postinico&layout=compact&langs_count=7&theme=dark"/>
 </div>
