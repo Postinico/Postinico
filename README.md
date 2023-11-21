@@ -42,10 +42,10 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
  
 </div>
-<div>
-  <h1>Development pattern <h1/>
+
+  # Development pattern 
   * SOLID
   * DDD (Domain Driven Design)
   * TDD (Test Driven Development)
   * DevOps (Continuous Integration / Continuous Delivery)
-</div>
+
