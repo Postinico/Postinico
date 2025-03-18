@@ -22,6 +22,7 @@
   <img align="center" alt="Ubuntu" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Docker" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
   <img align="center" alt="Nginx" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
+  <img align="center" alt="Nginx" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
 </div>
   
 <div align="center">
