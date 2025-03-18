@@ -38,9 +38,3 @@
  
 </div>
 
-  # Development pattern 
-  * SOLID
-  * DDD (Domain Driven Design)
-  * TDD (Test Driven Development)
-  * DevOps (Continuous Integration / Continuous Delivery)
-
