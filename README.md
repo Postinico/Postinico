@@ -38,18 +38,19 @@
  
 </div>
 
-  <div align="center"> 
-    #Arquitetura (Architecture)
-      * DDD (Designer Orientado Por Dominio).
-      * Arquitetura Limpa. (Clean Architecture).
-      * Divisão Vertical (Vertical Slide Architecture).
-      * Arquitetura em Camadas(Layered Architecture).
-    
-    #Padrões e Princípios (Patterns & Principles)
-      * SOLID.
-      * CQRS.
-      * Mediator, decorator e options.
-      * Pub/Sub e caching.
-      * API gateway.
-  </div>
+ <div align="center"> 
 
+  # **Arquitetura (Architecture)**
+  * DDD (Designer Orientado Por Dominio).
+  * Arquitetura Limpa. (Clean Architecture).
+  * Divisão Vertical (Vertical Slide Architecture).
+  * Arquitetura em Camadas (Layered Architecture).
+  
+  # **Padrões e Princípios (Patterns & Principles)**
+  * SOLID.
+  * CQRS.
+  * Mediator, decorator e options.
+  * Pub/Sub e caching.
+  * API gateway.
+
+</div>
