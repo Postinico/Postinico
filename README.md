@@ -38,7 +38,7 @@
  
 </div>
 
- <div align="center"> 
+ <div> 
 
   # **Arquitetura (Architecture)**
   * DDD (Designer Orientado Por Dominio).
