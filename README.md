@@ -41,15 +41,15 @@
  <div> 
 
   # **Arquitetura (Architecture)**
-  * Arquitetura Limpa. (Clean Architecture).
-  * Divisão Vertical (Vertical Slide Architecture).
+  * AArquitetura Limpa (Clean Architecture).
+  * Microservices (Arquitetura de Microserviços).
   * Arquitetura em Camadas (Layered Architecture).
   
   # **Padrões e Princípios (Patterns & Principles)**
   * SOLID.
   * CQRS.
   * Mediator, decorator e options.
-  * Pub/Sub e caching.
+  * Pub/Sub.
   * API gateway.
 
 </div>
