@@ -41,7 +41,6 @@
  <div> 
 
   # **Arquitetura (Architecture)**
-  * DDD (Designer Orientado Por Dominio).
   * Arquitetura Limpa. (Clean Architecture).
   * Divisão Vertical (Vertical Slide Architecture).
   * Arquitetura em Camadas (Layered Architecture).
