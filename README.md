@@ -41,7 +41,7 @@
  <div> 
 
   # **Arquitetura (Architecture)**
-  * AArquitetura Limpa (Clean Architecture).
+  * Arquitetura Limpa (Clean Architecture).
   * Microservices (Arquitetura de Microserviços).
   * Arquitetura em Camadas (Layered Architecture).
   
