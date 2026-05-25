@@ -37,19 +37,3 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
  
 </div>
-
- <div> 
-
-  # **Arquitetura (Architecture)**
-  * Arquitetura Limpa (Clean Architecture).
-  * Microservices (Arquitetura de Microserviços).
-  * Arquitetura em Camadas (Layered Architecture).
-  
-  # **Padrões e Princípios (Patterns & Principles)**
-  * SOLID.
-  * CQRS.
-  * Mediator, decorator e options.
-  * Pub/Sub.
-  * API gateway.
-
-</div>
